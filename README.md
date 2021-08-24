@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TakeoNoname
 - 👀 I’m interested in videogame programming, Marketing and some other stuff
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently Mastering C#
 - 💞️ I’m looking to collaborate on The current game i am working on or another game.
 - 📫 How to reach me Takeononame@accidentaledge.com or Takeo#7331
 
